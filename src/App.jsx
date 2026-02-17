@@ -3,7 +3,7 @@ import "./App.css";
 const LINKS = {
   linkedin: "https://www.linkedin.com/in/jahnaviyerram-/",
   resume:
-    "https://drive.google.com/file/d/1BOmF6kBiRgBouF_iNQYqxUCoUo7PHH2n/view?usp=sharing",
+    "https://drive.google.com/file/d/1XuL5VAUMgEgFoMGQGw6M-MZ0fn4hojrM/view?usp=sharing",
   email: "jahnaviyerram514@gmail.com",
   github: "https://github.com/jahnaviyerram514",
 };
@@ -20,7 +20,7 @@ const EXPERIENCE = [
     role: "Senior Full Stack Developer",
     company: "Acuity Brands",
     location: "Atlanta, GA",
-    dates: "Jan 2024 – Present",
+    dates: "May 2024 – Present",
     highlights: [
       "Built customer-facing SPA flows for product configuration, pricing estimates, and workflow tracking.",
       "Developed responsive UI using React + TypeScript with reusable component patterns.",
@@ -34,7 +34,7 @@ const EXPERIENCE = [
     role: "Full Stack Developer",
     company: "T-Mobile",
     location: "Frisco, TX",
-    dates: "Aug 2021 – Jul 2023",
+    dates: "Aug 2021 – Dec 2023",
     highlights: [
       "Built Angular (TypeScript) SPA features for subscriber account management and service workflows.",
       "Developed reusable Angular components/services and integrated REST APIs using HttpClientModule.",
